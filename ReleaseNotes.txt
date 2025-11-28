@@ -1,0 +1,12 @@
+Release notes
+
+0.1.NEXT
+- nothing specific planned for now
+- possible additional themes?
+
+0.1.1
+- added new sprite (character) themes - basic, traditional, animal, camo, college football, football, hogwarts, hogwarts2, superheroes
+
+0.1.0 
+- initial checkin
+- Windows, Linux and MacOS notifications
