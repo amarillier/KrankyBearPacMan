@@ -41,7 +41,7 @@ rsrc_windows_amd64.syso
 
 # ALLOWED
 !bin/*
-installers/*
+!installers/*
 !Resources/*
 !Inno/*
 

@@ -21,7 +21,7 @@ Arguments:
   all         Build both Linux and macOS packages
 
 Environment variables (optional):
-  VERSION     Package version (default: 0.1.1)
+  VERSION     Package version (default: 0.1.2)
   ITERATION   Package iteration/release (default: 1)
   ARCH        Target arch: amd64|arm64 (default: native for mac, amd64 for linux)
   OUTDIR      Output directory (default: ./installers)
@@ -85,7 +85,7 @@ done
 
 # Configurable via env vars
 NAME=${NAME:-KrankyBearPacMan}
-VERSION=${VERSION:-0.1.1}
+VERSION=${VERSION:-0.1.2}
 ITERATION=${ITERATION:-1}
 OUTDIR=${OUTDIR:-./installers}
 MAINTAINER=${MAINTAINER:-"amarillier@gmail.com"}
