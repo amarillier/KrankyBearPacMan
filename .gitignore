@@ -27,7 +27,7 @@ latestcheck.json
 
 ## Build artifacts
 bin/.DS_Store
-Resources/
+Resources/*
 dist/
 build/
 KrankyBearPacMan.app/
@@ -42,6 +42,7 @@ rsrc_windows_amd64.syso
 # ALLOWED
 !bin/*
 !installers/*
-!Resources/*
+!Resources/Sounds*
+!Resources/Images*
 !Inno/*
-
+Resources/Images/*/original/*
